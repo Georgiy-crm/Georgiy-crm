@@ -1,4 +1,4 @@
-<h1 align="center">Привет! 👋 Я Григорий Толкачев</h1>
+<h1 align="center">Привет! 👋 Я Георгий Толкачев</h1>
 
 <div align="center">
 
